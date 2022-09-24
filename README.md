@@ -29,15 +29,17 @@ This repository consists on one Jupyter Notebook.
 
 In this part of the project, the analysis of customer feedback will be carried out using **Natural Processing Language techniques with the Python programming language**.
 
-We start by **identifying the most used languages** and the most used words in these languages.
+We start by **identifying the most used languages**🇬🇧🇪🇸🇺🇸🇨🇳🇮🇹🇫🇷 and the most used words in these languages.
 
-Subsequently, **sentiment analysis** is carried out on the comments, dividing them into positive, neutral and negative.
+Subsequently, **sentiment analysis** is carried out on the comments, dividing them into positive😁, neutral😌 and negative😡.
 
-Finally, different methods are used to carry out **topic modelling** on the comments already separated into sentiments. 
+Finally, different methods are used to carry out **topic modelling🔦** on the comments already separated into sentiments. 
 
-All of these techniques are explored in greater depth to find patterns of behaviour that can help in data-driven decision making.
+All of these techniques are explored in greater depth to find patterns of behaviour that can help in **data-driven decision making💭**.
 
 So, please feel free to take your time to look deeper into the code and conclusions.
+
+---------------------------------------------------------------------------------------------------------------------
 
 Ignacio Reyes Arboledas
 
